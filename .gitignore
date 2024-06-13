@@ -8,7 +8,10 @@ __pycache__/
 
 **/venv/
 **/data/
-**/archive/
+**/archive/Training/female
+**/archive/Training/male
+**/archive/Validation/male
+**/archive/Validation/female
 
 # Distribution / packaging
 .Python
