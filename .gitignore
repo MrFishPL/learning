@@ -10,7 +10,6 @@ __pycache__/
 **/data/
 **/archive/Training/female
 **/archive/Training/male
-**/archive/Validation/male
 
 
 # Distribution / packaging
