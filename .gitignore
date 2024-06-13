@@ -11,7 +11,7 @@ __pycache__/
 **/archive/Training/female
 **/archive/Training/male
 **/archive/Validation/male
-**/archive/Validation/female
+
 
 # Distribution / packaging
 .Python
