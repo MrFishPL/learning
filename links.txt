@@ -1,0 +1,5 @@
+https://asiltureli.github.io/Convolution-Layer-Calculator/
+https://towardsdatascience.com/grad-cam-in-pytorch-use-of-forward-and-backward-hooks-7eba5e38d569
+https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471
+https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471
+https://chatgpt.com/share/250a4312-ee66-4110-bac9-00753ddb469e

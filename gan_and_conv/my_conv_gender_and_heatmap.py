@@ -131,8 +131,6 @@ for epoch in range(num_epochs):
 
 model.eval()
 
-# FROM: https://towardsdatascience.com/grad-cam-in-pytorch-use-of-forward-and-backward-hooks-7eba5e38d569
-
 gradients = None
 activations = None
 

@@ -28,5 +28,3 @@ y_pred = svm_model.predict(X_test)
 # Ocena modelu
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Accuracy: {accuracy * 100:.2f}%')
-
-# https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471

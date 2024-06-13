@@ -21,5 +21,3 @@ print("trenowanie")
 plt.figure(figsize=(12,8))
 tree.plot_tree(clf, feature_names=iris.feature_names, class_names=iris.target_names, filled=True)
 plt.show()
-
-# https://chatgpt.com/share/250a4312-ee66-4110-bac9-00753ddb469e
