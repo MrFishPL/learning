@@ -1,5 +1,20 @@
-https://asiltureli.github.io/Convolution-Layer-Calculator/
-https://towardsdatascience.com/grad-cam-in-pytorch-use-of-forward-and-backward-hooks-7eba5e38d569
+Chaty:
 https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471
 https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471
 https://chatgpt.com/share/250a4312-ee66-4110-bac9-00753ddb469e
+
+Przydatne strony:
+https://asiltureli.github.io/Convolution-Layer-Calculator/
+
+Przetwarzanie obrazów:
+https://towardsdatascience.com/grad-cam-in-pytorch-use-of-forward-and-backward-hooks-7eba5e38d569
+https://medium.com/@marcodelpra/generative-adversarial-networks-dba10e1b4424
+https://www.researchgate.net/figure/Structure-of-the-generator-The-convolutional-layers-are-represented-as-number-of_fig4_349565780
+
+Inne strony:
+https://arxiv.org/html/2403.04861v1 
+https://www.analyticsvidhya.com/blog/2021/12/stock-price-prediction-using-lstm/
+
+Notatki z lekcji:
+https://sites.google.com/view/uczeniemaszynowe2021/home
+https://docs.google.com/document/d/1mc9mWw2y0obg0X9LhQ_dLYdtM583pRNHyEckWNt9dw8/edit
