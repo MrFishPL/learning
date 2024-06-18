@@ -1,8 +1,3 @@
-Chaty:
-https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471
-https://chatgpt.com/share/3ab1d2ed-8360-4b19-bed1-878c68c11471
-https://chatgpt.com/share/250a4312-ee66-4110-bac9-00753ddb469e
-
 Przydatne strony:
 https://asiltureli.github.io/Convolution-Layer-Calculator/
 https://towardsdatascience.com/custom-dataset-in-pytorch-part-1-images-2df3152895
@@ -11,6 +6,7 @@ Przetwarzanie obrazów:
 https://towardsdatascience.com/grad-cam-in-pytorch-use-of-forward-and-backward-hooks-7eba5e38d569
 https://medium.com/@marcodelpra/generative-adversarial-networks-dba10e1b4424
 https://www.researchgate.net/figure/Structure-of-the-generator-The-convolutional-layers-are-represented-as-number-of_fig4_349565780
+https://wandb.ai/capecape/ddpm_clouds/reports/Using-Stable-Diffusion-VAE-to-encode-satellite-images--VmlldzozNDA2OTgx
 
 Inne strony:
 https://arxiv.org/html/2403.04861v1 
@@ -24,3 +20,6 @@ Rozmowy z chatem z wczoraj:
 https://chatgpt.com/share/ab219139-9887-401b-9091-9dc6ff8e719a - macierz
 https://chatgpt.com/share/14e771bd-798b-4dae-9fe0-e481f9216dad - actor critic
 https://chatgpt.com/share/7cd5f893-e6c2-4163-8d4d-6faf21975dd0 - wzmocnienie
+https://chatgpt.com/share/8a71f07d-c2c8-4efb-ac3c-a7c4b685c324 - modele generatywne
+https://chatgpt.com/share/826a8e46-a25a-4d03-af5c-3f91ad77d325 - segmentacja (słaba jakość)
+https://chatgpt.com/share/b49eb53b-491d-4507-9559-8a73a3ac277a - LSTM jako LM (ostateczność)
