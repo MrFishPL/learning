@@ -23,3 +23,9 @@ https://chatgpt.com/share/7cd5f893-e6c2-4163-8d4d-6faf21975dd0 - wzmocnienie
 https://chatgpt.com/share/8a71f07d-c2c8-4efb-ac3c-a7c4b685c324 - modele generatywne
 https://chatgpt.com/share/826a8e46-a25a-4d03-af5c-3f91ad77d325 - segmentacja (słaba jakość)
 https://chatgpt.com/share/b49eb53b-491d-4507-9559-8a73a3ac277a - LSTM jako LM (ostateczność)
+
+Docs:
+https://docs.google.com/document/d/1qfBJPJbBEyJhBTR7ZNZMquONkmfYV1pNE9bjiD5lNOA/edit?usp=sharing
+https://docs.google.com/document/d/1_N3FykKX0I4hkZjBxjsC54Ic19Vg3EM72Df6h-czNy4/edit?usp=sharing
+https://docs.google.com/document/d/1HmiXIKfDG2GnWfvf0REzuw3eeo3bY4IU9s0jMg1lqW4/edit?usp=sharing
+https://docs.google.com/document/d/15fryv-9sWX_czjRtqnRQ3SmZ_q44lfBv9nI4tGafN8Y/edit?usp=sharing
