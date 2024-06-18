@@ -74,6 +74,7 @@ for epoch in range(num_epochs):
 
         loss = criterion(outputs, labels)
         loss.backward()
+        
         optimizer.step()
         
         running_loss += loss.item() * inputs.size(0)

@@ -5,6 +5,7 @@ https://chatgpt.com/share/250a4312-ee66-4110-bac9-00753ddb469e
 
 Przydatne strony:
 https://asiltureli.github.io/Convolution-Layer-Calculator/
+https://towardsdatascience.com/custom-dataset-in-pytorch-part-1-images-2df3152895
 
 Przetwarzanie obrazów:
 https://towardsdatascience.com/grad-cam-in-pytorch-use-of-forward-and-backward-hooks-7eba5e38d569
@@ -18,3 +19,8 @@ https://www.analyticsvidhya.com/blog/2021/12/stock-price-prediction-using-lstm/
 Notatki z lekcji:
 https://sites.google.com/view/uczeniemaszynowe2021/home
 https://docs.google.com/document/d/1mc9mWw2y0obg0X9LhQ_dLYdtM583pRNHyEckWNt9dw8/edit
+
+Rozmowy z chatem z wczoraj:
+https://chatgpt.com/share/ab219139-9887-401b-9091-9dc6ff8e719a - macierz
+https://chatgpt.com/share/14e771bd-798b-4dae-9fe0-e481f9216dad - actor critic
+https://chatgpt.com/share/7cd5f893-e6c2-4163-8d4d-6faf21975dd0 - wzmocnienie
