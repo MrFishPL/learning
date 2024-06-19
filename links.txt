@@ -32,3 +32,7 @@ https://docs.google.com/document/d/15fryv-9sWX_czjRtqnRQ3SmZ_q44lfBv9nI4tGafN8Y/
 
 Colab:
 https://console.cloud.google.com/vertex-ai/colab/runtimes?hl=pl&project=finalolimpai-426221
+
+Prezentacje:
+https://docs.google.com/presentation/d/1v43OQtExQ55RhRANUlOSBa9Swat1PA7ANBhOwkHmBTc/edit#slide=id.g2e612af8bf9_0_0
+https://docs.google.com/presentation/d/1MgJEHsidgKHFAt_CwfNsXN2bjDEepfwGWhuupbgDEtw/edit#slide=id.p
